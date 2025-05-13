@@ -88,8 +88,7 @@ Fork & clone this repo
 Create a feature branch:
 
 bash
-Kopyala
-Düzenle
+
 git checkout -b feat/YourFeature
 Commit your changes with clear messages
 
@@ -98,5 +97,4 @@ Push & open a Pull Request
 📜 License
 This project is licensed under the MIT License.
 
-Kopyala
-Düzenle
+
